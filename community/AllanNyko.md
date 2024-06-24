@@ -10,9 +10,9 @@ Dev Full Stack, formando em ADS e trabalhando na empresa Bluemaxx em projetos pa
 
 ## Idiomas
 
-- ![Inglês](https://img.shields.io/badge/English-fluent-blue?style=flat-square&logo=appveyor) 🇺🇸
-- ![Espanhol](https://img.shields.io/badge/Español-avanzado-red?style=flat-square&logo=appveyor) 🇪🇸
-- ![Italiano](https://img.shields.io/badge/Italiano-intermedio-green?style=flat-square&logo=appveyor) 🇮🇹
+- ![Inglês](https://img.shields.io/badge/English-fluent-blue?style=flat-square&logo=appveyor) 
+- ![Espanhol](https://img.shields.io/badge/Español-avanzado-red?style=flat-square&logo=appveyor)
+- ![Italiano](https://img.shields.io/badge/Italiano-intermedio-green?style=flat-square&logo=appveyor)
 
 ## Conecte-se comigo
 
